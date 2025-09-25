@@ -11,6 +11,7 @@ C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfo.cs
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.sourcelink.json
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaura.2EEA3570.Up2Date
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.dll
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Infrastructure\obj\Debug\net8.0\refint\Restaurants.Infrastructure.dll

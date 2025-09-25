@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {}
+    "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {
+    "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
         "projectName": "Restaurants.Domain",
-        "projectPath": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
+        "projectPath": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
         "packagesPath": "C:\\Users\\Emma B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,23 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Migrations\\20250902150937_KiloCaloriesToDish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\infrastructureserviceregistartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99C8B86-595A-41E8-8EB0-CFAD71B28266}|..\\Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\restaurants.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDD3CDF-1282-4924-BA6C-C32B299CB253}|..\\Restaurants.Application\\Restaurants.Application.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDD3CDF-1282-4924-BA6C-C32B299CB253}|..\\Restaurants.Application\\Restaurants.Application.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.application\\restaurants.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4E562-28B8-4F73-B165-450EA2563635}|Restaurants_API.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants_api\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4E562-28B8-4F73-B165-450EA2563635}|Restaurants_API.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDD3CDF-1282-4924-BA6C-C32B299CB253}|..\\Restaurants.Application\\Restaurants.Application.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.application\\restaurants\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDD3CDF-1282-4924-BA6C-C32B299CB253}|..\\Restaurants.Application\\Restaurants.Application.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.application\\restaurants\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7E4E562-28B8-4F73-B165-450EA2563635}|Restaurants_API.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7E4E562-28B8-4F73-B165-450EA2563635}|Restaurants_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\infrastructureserviceregistartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99C8B86-595A-41E8-8EB0-CFAD71B28266}|..\\Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\seeders\\irestaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\persistence\\databasecontext\\restaurantsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,9 +52,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B99C8B86-595A-41E8-8EB0-CFAD71B28266}|..\\Restaurants.Domain\\Restaurants.Domain.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDCAEA1-746B-4A8C-A9FB-085B93DB7124}|..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\users\\emma b\\desktop\\emma project\\.net\\restaurants\\restaurants.infrastructure\\restaurants.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Domain\\Entities\\Dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -73,24 +89,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250902150937_KiloCaloriesToDish.cs",
-              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Migrations\\20250902150937_KiloCaloriesToDish.cs",
-              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Migrations\\20250902150937_KiloCaloriesToDish.cs",
-              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Migrations\\20250902150937_KiloCaloriesToDish.cs",
-              "RelativeToolTip": "..\\Restaurants.Infrastructure\\Migrations\\20250902150937_KiloCaloriesToDish.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Restaurants.Application",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Restaurants.Application\\Restaurants.Application.csproj",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants.Application.csproj",
+              "RelativeToolTip": "..\\Restaurants.Application\\Restaurants.Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T16:30:49.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\Restaurants.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "..\\Restaurants.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T15:09:38.295Z",
+              "WhenOpened": "2025-09-02T22:45:43.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurants.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T15:17:20.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureServiceRegistartion.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
+              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
+              "RelativeToolTip": "..\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:16:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:18:16.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\Restaurants.Application\\Restaurants\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants\\RestaurantService.cs",
+              "RelativeToolTip": "..\\Restaurants.Application\\Restaurants\\RestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:43:51.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\Restaurants.Application\\Restaurants\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Application\\Restaurants\\IRestaurantService.cs",
+              "RelativeToolTip": "..\\Restaurants.Application\\Restaurants\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:19:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "..\\Restaurants.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:16:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:39:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RestaurantSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\seeders\\RestaurantSeeder.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\seeders\\RestaurantSeeder.cs",
@@ -98,11 +218,12 @@
               "RelativeToolTip": "..\\Restaurants.Infrastructure\\seeders\\RestaurantSeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T21:57:10.104Z"
+              "WhenOpened": "2025-08-20T21:57:10.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Domain\\Entities\\Dish.cs",
@@ -115,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "IRestaurantSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\seeders\\IRestaurantSeeder.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\seeders\\IRestaurantSeeder.cs",
@@ -123,11 +244,12 @@
               "RelativeToolTip": "..\\Restaurants.Infrastructure\\seeders\\IRestaurantSeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T22:17:47.806Z"
+              "WhenOpened": "2025-08-20T22:17:47.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -135,59 +257,25 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-12T10:37:52.75Z"
+              "WhenOpened": "2025-08-12T10:37:52.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "RestaurantConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Persistence\\Configuration\\RestaurantConfiguration.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Persistence\\Configuration\\RestaurantConfiguration.cs",
               "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Persistence\\Configuration\\RestaurantConfiguration.cs",
               "RelativeToolTip": "..\\Restaurants.Infrastructure\\Persistence\\Configuration\\RestaurantConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA2wAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T11:46:02.575Z"
+              "WhenOpened": "2025-08-12T11:46:02.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:39:57.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InfrastructureServiceRegistartion.cs",
-              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
-              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
-              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
-              "RelativeToolTip": "..\\Restaurants.Infrastructure\\InfrastructureServiceRegistartion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:16:09.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Restaurants.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
-              "RelativeToolTip": "..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-12T15:17:20.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "RestaurantsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Persistence\\DatabaseContext\\RestaurantsDbContext.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Persistence\\DatabaseContext\\RestaurantsDbContext.cs",
@@ -195,11 +283,12 @@
               "RelativeToolTip": "..\\Restaurants.Infrastructure\\Persistence\\DatabaseContext\\RestaurantsDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:06:36.944Z"
+              "WhenOpened": "2025-08-12T10:06:36.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "20250813104152_init.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Infrastructure\\Migrations\\20250813104152_init.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Infrastructure\\Migrations\\20250813104152_init.cs",
@@ -207,11 +296,12 @@
               "RelativeToolTip": "..\\Restaurants.Infrastructure\\Migrations\\20250813104152_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T10:41:52.959Z"
+              "WhenOpened": "2025-08-13T10:41:52.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Entities\\Restaurant.cs",
               "RelativeDocumentMoniker": "..\\Restaurants.Domain\\Entities\\Restaurant.cs",
@@ -219,11 +309,12 @@
               "RelativeToolTip": "..\\Restaurants.Domain\\Entities\\Restaurant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:00:14.599Z"
+              "WhenOpened": "2025-08-12T10:00:14.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "RestaurantsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Infrastructure\\Persistence\\RestaurantsDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Infrastructure\\Persistence\\RestaurantsDbContext.cs",
@@ -234,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Domain\\Entities\\Dish.cs",
@@ -245,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Domain\\Entities\\Address.cs",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Domain\\Entities\\Address.cs",
@@ -256,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Domain\\Entities\\Restaurant.cs",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Domain\\Entities\\Restaurant.cs",
@@ -267,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Restaurants.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Domain\\Restaurants.Domain.csproj",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Domain\\Restaurants.Domain.csproj",
@@ -278,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Restaurants.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Application\\Restaurants.Application.csproj",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Application\\Restaurants.Application.csproj",
@@ -289,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Restaurants.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\..\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
@@ -300,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Restaurants_API.http",
               "DocumentMoniker": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants_API\\Restaurants_API.http",
               "RelativeDocumentMoniker": "Restaurants_API.http",
@@ -308,7 +399,8 @@
               "RelativeToolTip": "Restaurants_API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-10T19:06:57.756Z"
+              "WhenOpened": "2025-08-10T19:06:57.756Z",
+              "EditorCaption": ""
             }
           ]
         }
