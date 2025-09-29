@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {}
+    "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {
+    "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
         "projectName": "Restaurants.Domain",
-        "projectPath": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
+        "projectPath": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\Restaurants.Domain.csproj",
         "packagesPath": "C:\\Users\\Emma B\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Emma B\\Desktop\\Emma project\\.net\\Restaurants\\Restaurants.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

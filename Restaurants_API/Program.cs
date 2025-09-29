@@ -13,6 +13,7 @@ var configuration = builder.Configuration;
 builder.Services.AddControllers();
 // Register the infrastructure services
 builder.Services.AddScoped<ErrorHandlingMiddleware>();
+builder.Services.AddScoped<RequestTimeLoggingMiddleware>();
 builder.Services.RegisterPersistenceService(configuration);
 builder.Services.RegisterApplicationService();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -33,8 +34,10 @@ await seeder.Seed();
 // Configure the HTTP request pipeline.
 
 app.UseMiddleware<ErrorHandlingMiddleware>();
+app.UseMiddleware<RequestTimeLoggingMiddleware>();
 
 app.UseSerilogRequestLogging();
+
 
 if (app.Environment.IsDevelopment())
 {

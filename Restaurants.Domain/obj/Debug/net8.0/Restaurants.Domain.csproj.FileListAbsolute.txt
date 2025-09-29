@@ -10,3 +10,4 @@ C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Domain\obj\Deb
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Domain\obj\Debug\net8.0\refint\Restaurants.Domain.dll
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.pdb
 C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Domain\obj\Debug\net8.0\ref\Restaurants.Domain.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.csproj.AssemblyReference.cache

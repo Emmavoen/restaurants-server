@@ -10,11 +10,17 @@ namespace Restaurants.Infrastructure
 {
     public static class InfrastructureServiceRegistartion
     {
-        public static IServiceCollection  RegisterPersistenceService(this IServiceCollection services, IConfiguration conn)
-        { 
-            services.AddDbContext<RestaurantsDbContext>(options => options.UseSqlServer(conn.GetConnectionString("conn")).EnableSensitiveDataLogging());
+        public static IServiceCollection RegisterPersistenceService(
+            this IServiceCollection services,
+            IConfiguration conn
+        )
+        {
+            services.AddDbContext<RestaurantsDbContext>(options =>
+                options.UseSqlServer(conn.GetConnectionString("conn")).EnableSensitiveDataLogging()
+            );
             services.AddScoped<IRestaurantSeeder, RestaurantSeeder>();
             services.AddScoped<IRestaurantRepository, RestaurantRepository>();
+            services.AddScoped<IDishesRepository, DishesRepository>();
             return services;
         }
     }

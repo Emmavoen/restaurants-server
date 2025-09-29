@@ -188,3 +188,8 @@ c:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\
 c:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 c:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 c:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emma B\Desktop\Emma project\.net\Restaurants\Restaurants_API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
